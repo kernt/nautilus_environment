@@ -1,2 +1,2 @@
-# gedit_enviromnet
-some staff for gedit text editor
+# nautilius_enviromnet
+some staff for Nautilus the Gnome filemanager
